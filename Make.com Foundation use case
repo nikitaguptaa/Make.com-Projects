@@ -1,0 +1,9 @@
+This Make.com Foundation use case scenario automates weather-based data logging into Google Sheets:
+
+It starts by retrieving the current weather using the Weather module.
+
+A Router then checks the temperature:
+If it’s above 20°C, it logs the data in one Google Sheet.
+If it’s below or equal to 20°C, it sends the data to a different Google Sheet.
+
+This demonstrates conditional routing, data logging, and real-time automation based on external API data.
