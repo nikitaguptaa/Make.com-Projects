@@ -15,3 +15,6 @@ Demonstrated the use of conditional branching, external API integration, and Goo
 **Impact:**
 This scenario served as a foundation-level automation use case, showcasing how Make.com can streamline decision-based data logging workflows with minimal code.
 
+Supported files are added in the drive here :
+https://drive.google.com/drive/u/2/folders/1Vv_uArEkLJRegtNcJ05VrPTgEfnDawuy
+
